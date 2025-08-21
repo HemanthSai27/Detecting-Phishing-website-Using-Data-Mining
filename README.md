@@ -90,11 +90,3 @@ Performance metrics used:
 
 > Note: Update the accuracy and model name after training your models.
 
----
-
-## 🔧 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/Detecting-Phishing-Website-Using-Data-Mining.git
-cd Detecting-Phishing-Website-Using-Data-Mining
